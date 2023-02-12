@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+wmi = "*"
+selenium = "*"
+requests = "*"
+auto-py-to-exe = "*"
+tqdm = "*"
+webdriver-manager = "*"
+
+[dev-packages]
+black = "*"
+bandit = "*"
+auto-py-to-exe = "*"
+
+[requires]
+python_version = "3.10"
+
+[pipenv]
+allow_prereleases = true
