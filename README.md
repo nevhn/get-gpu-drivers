@@ -1,6 +1,12 @@
 # get-gpu-drivers
 A simple and convenient Python CLI script that automates the process of updating graphics card drivers. This script was designed to save time when updating computers on a campus between semesters.
 
+
+## Screenhots
+![carbon (1)](https://user-images.githubusercontent.com/51008990/218599474-d74ce41d-1f4e-4fc7-8fc8-e947126bc270.png)
+
+
+
 ### Features
 - Supports both AMD and NVIDIA graphics cards (tested on Windows 10)
 - Automatically fetches the latest driver for the following GPU models:
